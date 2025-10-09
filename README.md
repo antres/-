@@ -117,7 +117,7 @@ graph TD
     AD -- Да --> AF[/Вывод: D/]
     AC -- Да --> AG[/Вывод: C/]
     F --> AH
-    J --> AH
+    I --> AH
     H --> AH
     M --> AH
     N --> AH
